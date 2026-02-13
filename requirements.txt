@@ -1,0 +1,8 @@
+# Python Dependencies for AI Agent
+
+numpy
+pandas
+scikit-learn
+tensorflow
+flask
+requests
